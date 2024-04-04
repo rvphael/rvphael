@@ -1,6 +1,27 @@
-# 👋 Hi, I'm Raphael
-> In my world, curiosity drives innovation and persistence shapes the future.  
-> My approach to software engineering is about finding elegant solutions to complex problems, focusing on impact over technology.
-
-## ⚡ Stack
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+                   ...,?77??!~~~~!???77?<~.... 
+                    ..?7`                           `7!.. 
+                .,=`          ..~7^`   I                  ?1. 
+   ........  ..^            ?`  ..?7!1 .               ...??7 
+  .        .7`        .,777.. .I.    . .!          .,7! 
+  ..     .?         .^      .l   ?i. . .`       .,^ 
+   b    .!        .= .?7???7~.     .>r .      .= 
+   .,.?4         , .^         1        `     4... 
+    J   ^         ,            5       `         ?<. 
+   .%.7;         .`     .,     .;                   .=. 
+   .+^ .,       .%      MML     F       .,             ?, 
+    P   ,,      J      .MMN     F        6               4. 
+    l    d,    ,       .MMM!   .t        ..               ,,                MANO NÃO ABRE PR SEM TESTE
+    ,    JMa..`         MMM`   .         .!                .;                       POR FAVOR
+     r   .M#            .M#   .%  .      .~                 ., 
+   dMMMNJ..!                 .P7!  .>    .         .         ,, 
+   .WMMMMMm  ?^..       ..,?! ..    ..   ,  Z7`        `?^..  ,, 
+      ?THB3       ?77?!        .Yr  .   .!   ?,              ?^C 
+        ?,                   .,^.` .%  .^      5. 
+          7,          .....?7     .^  ,`        ?. 
+            `<.                 .= .`'           1 
+               dn... ... ...,7..J=!7,           ., 
+                                     J.           F 
+                                        `?~.      F 
+                                            .=.  .% 
+                                                4., 
+                                                `'
